@@ -366,7 +366,7 @@ a {
 
 /*Why-we-section*/
 .background {
-  background-image: url("/images/background.png");
+  background-image: url("../images/background.png");
   background-repeat: no-repeat;
   background-position: center top;
   width: 100%;
